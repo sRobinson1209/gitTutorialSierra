@@ -1,0 +1,22 @@
+Deck ID: 747421023
+Total Energy Cost: 0energy
+Energy Cost Dist. (Histogram):
+0energy:0
+1energy:0
+2energy:0
+3energy:0
+4energy:0
+5energy:0
+6energy:0
+
+ Invalid Cards:
+Strike:1
+Genetic Algorithm:1
+Crush:3
+Biased Cognition:1
+All For One:2
+Genetic Algorithm:1
+Strike:1
+InvalidCard:-1
+:4
+AnotherInvalidCard:hello
